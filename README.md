@@ -2,33 +2,35 @@
 A simple Elybot repository written for JS - from now on the main repo to use since it's the only one going to get updated by me.
 
 >Features
-> - [ ] Statistics Collection
->   - [ ] User Related Data
+> - [ ] Discord Bot
+>   - [ ] Database
+>   - [ ] Statistics Collection
+>     - [ ] User Related Data
 >
->     - [ ] Identification
->       - [ ] Current Name
->       - [ ] Current Nickname
->       - [ ] Current ID
->       - [ ] Snowflake
->       - [ ] Previous Data
->         - date
->         - name
->         - nickname
->         - id
->     - [ ] Role Data
->       - [ ] Current Roles
->         - [ ] Role Name
->       - [ ] Previous Data
->         - date
->         - role name
+>       - [ ] Identification
+>         - [ ] Current Name
+>         - [ ] Current Nickname
+>         - [ ] Current ID
+>         - [ ] Snowflake
+>         - [ ] Previous Data
+>           - date
+>           - name
+>           - nickname
+>           - id
+>       - [ ] Role Data
+>         - [ ] Current Roles
+>           - [ ] Role Name
+>         - [ ] Previous Data
+>           - date
+>           - role name
 >
->   - [ ] Guild Related Data
->     - [ ] User Data
->       - [ ] Current User Count
->       - [ ] User Count over Time
->     - [ ] Cookie Data
->       - [ ] Current Cookie Count
->       - [ ] Cookie Count over Time
+>     - [ ] Guild Related Data
+>       - [ ] User Data
+>         - [ ] Current User Count
+>         - [ ] User Count over Time
+>       - [ ] Cookie Data
+>         - [ ] Current Cookie Count
+>         - [ ] Cookie Count over Time
 >
 >
 > - [ ] Independent Config Generation
@@ -45,5 +47,11 @@ A simple Elybot repository written for JS - from now on the main repo to use sin
 >           - [x] email: string
 >           - [x] password: string
 >     - [ ] personal assistant
->     - [ ] webserver
+>     - [x] webserver
+>       - [x] HTTP Port
+>       - [x] HTTPS Port
 >   - [ ] server_x.json
+>
+>
+> - [ ] Web Server
+>   - [ ] ???
