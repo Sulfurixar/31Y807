@@ -1,0 +1,8 @@
+
+# Dependency Directories
+node_modules/
+
+# Generated Data
+templates/
+config.json
+package-lock.json
