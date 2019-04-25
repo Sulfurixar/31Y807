@@ -74,5 +74,5 @@ setTimeout(() => {
 
 
   //Run Main
-  main(config, null, webserver, db;
+  main(config, null, webserver, db);
 }, 3000);
