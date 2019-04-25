@@ -28,7 +28,7 @@ setTimeout(() => {
   var config = configJS.config;
 
   //TODO: database
-  const mongo = require('MongoDB').MongoClient;
+  const mongo = require('mongodb').MongoClient;
   var url = 'mongodb://localhost:';
   console.log(config.database.port);
   if (utils.checkNoVal(config.database.port)) {
