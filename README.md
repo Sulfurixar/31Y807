@@ -4,6 +4,7 @@ A simple Elybot repository written for JS - from now on the main repo to use sin
 >Features
 > - [ ] Discord Bot
 >   - [ ] Database
+>     - [ ] MongoDB
 >   - [ ] Statistics Collection
 >     - [ ] User Related Data
 >
