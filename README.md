@@ -4,8 +4,8 @@ since it's the only one going to get updated by me.
 
 ## Requirements
 - NodeJS
-  - express (webserver)
-  - lodash
+> - express (webserver)
+> - lodash
   - mongodb (database)
   - discord.js (discord)
 - MongoDB
