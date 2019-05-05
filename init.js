@@ -7,6 +7,14 @@ const fName = utils.getBaseName(__filename);
 const debugOutput = utils.debugOutput;
 const errorOutput = utils.errorOutput;
 
+/**
+  * Initialization function.
+  *
+  * Gets Configuration, and runs Loaders for each service
+  * (discord, webserver, database).
+  * @since 1.0.0
+  * @param {function} callback - main from ./main.js
+*/
 exports.init = function (callback) {
   debugOutput('Loading base configuration...', fName);
   const configJS = require(path.join(__dirname, 'lib/config.js'));
