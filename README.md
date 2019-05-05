@@ -2,6 +2,13 @@
 A simple Elybot repository written for JS - from now on the main repo to use
 since it's the only one going to get updated by me.
 
+## Requirements
+- NodeJS
+  - express (webserver)
+  - lodash
+  - mongodb (database)
+  - discord.js (discord)
+
 ## Features
  - [ ] Discord Bot
    - [x] Database
@@ -10,9 +17,12 @@ since it's the only one going to get updated by me.
    - [ ] Numerology Fun!
      - ???
 
+  - [ ] Commands
+
+  - [ ] Events
+
    - [ ] Statistics Collection
      - [ ] User Related Data
-
        - [ ] Identification
          - [ ] Current Name
          - [ ] Current Nickname
@@ -30,7 +40,7 @@ since it's the only one going to get updated by me.
          - [ ] Server
            - [ ] Channels
            - [ ] Channels' Activity over Time
-       - [ ] Timezone
+       - [ ] Time-zone
        - [ ] Language
        - [ ] Nationality
        - [ ] Country
@@ -94,4 +104,5 @@ since it's the only one going to get updated by me.
 
 
  - [ ] Web Server
-   - ???
+   - [ ] Analytics
+   - [ ] Disboard
