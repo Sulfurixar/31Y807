@@ -45,12 +45,13 @@ A simple Elybot repository written for JS - from now on the main repo to use sin
 >         - [x] bot
 >           - [x] token: string
 >         - [x] user
->           - [x] email: string
->           - [x] password: string
+>           - [x] token: string
 >     - [ ] personal assistant
 >     - [x] webserver
 >       - [x] HTTP Port
 >       - [x] HTTPS Port
+>     - [x] database
+>       - [x] port: int
 >   - [ ] server_x.json
 >
 >
