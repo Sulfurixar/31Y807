@@ -1,6 +1,6 @@
 {
   "name": "elyjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reimagination from python bot",
   "main": "main.js",
   "scripts": {
