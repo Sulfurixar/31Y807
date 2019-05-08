@@ -9,6 +9,7 @@
   "author": "@Elisiya",
   "license": "ISC",
   "dependencies": {
+    "deep-diff": "^1.0.2",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
     "mongodb": "^3.2.3"
