@@ -4,5 +4,10 @@ node_modules/
 
 # Generated Data
 templates/
+errors/
 config.json
 package-lock.json
+
+# User Custom Data
+commands/
+events/

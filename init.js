@@ -3,7 +3,7 @@ const path = require('path');
 const dbLoad = require('./lib/database/databaseLoad.js');
 const webserverJS = require('./lib/webserver.js');
 const dLoad = require('./lib/discord/discordLoad.js');
-const fName = utils.getBaseName(__filename);
+const fName = __filename.split(/[\/\\]/).slice(-1)[0];
 const debugOutput = utils.debugOutput;
 const errorOutput = utils.errorOutput;
 

@@ -1,10 +1,6 @@
 const path = require('path'),
-      utils = require('./lib/utils.js'),
       init = require('./init.js'),
       discordHandler = require('./lib/discord/discordHandler.js');
-const fName = utils.getBaseName(__filename);
-const debugOutput = utils.debugOutput;
-const errorOutput = utils.errorOutput;
 
 /**
   * Main wrapper.
