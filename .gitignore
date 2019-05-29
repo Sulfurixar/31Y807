@@ -9,5 +9,5 @@ config.json
 package-lock.json
 
 # User Custom Data
-./commands/
-./events/
+/commands/
+/events/
